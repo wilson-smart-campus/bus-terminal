@@ -2,6 +2,8 @@
 
 > A service for BusUcsal
 
+![Terminal](https://static.toiimg.com/thumb/msid-66453050,imgsize-129630,width-400,resizemode-4/66453050.jpg)
+
 ## About
 
 This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
