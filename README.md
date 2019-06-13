@@ -1,4 +1,4 @@
-# terminal-pituacu
+# Bus Terminal
 
 > A service for BusUcsal
 
